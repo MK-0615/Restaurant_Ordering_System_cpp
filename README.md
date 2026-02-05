@@ -22,7 +22,7 @@ Follow these steps to clone this repository from GitHub and run it in Visual Stu
 1. Clone the repo locally:
 
 ```powershell
-git clone <https://github.com/MK-0615/Restaurant_Ordering_System_cpp.git>
+git clone https://github.com/MK-0406/Restaurant_Ordering_System_cpp.git
 cd Restaurant_Ordering_System_cpp
 ```
 
